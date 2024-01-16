@@ -1,4 +1,5 @@
-![Media Recorder](https://github.com/EverlynRochefort/object-detection-camera/assets/69831958/6a29c2f5-c315-4281-b3b0-3ba23717904b)
+![media_recorder](https://github.com/EverlynRochefort/object-detection-camera/assets/69831958/3afc7130-2498-401d-8830-dac6f2d67a16)
+
 
 ## Getting Started
 
