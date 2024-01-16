@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Media Recorder](https://github.com/EverlynRochefort/object-detection-camera/assets/69831958/6a29c2f5-c315-4281-b3b0-3ba23717904b)
 
 ## Getting Started
 
