@@ -1,8 +1,6 @@
 ![media_recorder](https://github.com/EverlynRochefort/object-detection-camera/assets/69831958/3afc7130-2498-401d-8830-dac6f2d67a16)
 
 
-## Getting Started
-
 First, run the development server:
 
 ```bash
@@ -43,4 +41,4 @@ This model is a TensorFlow.js port of the COCO-SSD model. For more information a
 
 This model detects objects defined in the COCO dataset, which is a large-scale object detection, segmentation, and captioning dataset. You can find more information [here](http://cocodataset.org/#home). The model is capable of detecting [80 classes of objects](https://github.com/tensorflow/tfjs-models/blob/master/coco-ssd/src/classes.ts). (SSD stands for Single Shot MultiBox Detection).
 
-This TensorFlow.js model does not require you to know about machine learning. It can take input as any browser-based image elements (<img>, <video>, <canvas> elements, for example) and returns an array of bounding boxes with class name and confidence level.
+This TensorFlow.js model does not require you to know about machine learning. It can take input as any browser-based image elements (`img`, `video`, `canvas` elements, for example) and returns an array of bounding boxes with class name and confidence level.
